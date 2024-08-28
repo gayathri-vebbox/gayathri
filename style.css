@@ -1,0 +1,8 @@
+td {
+    width: 5vw;
+    border: 1px solid black;
+    text-align: center;
+}
+.noBorder {
+    border: none;
+}
